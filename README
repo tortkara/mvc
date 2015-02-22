@@ -1,0 +1,38 @@
+# ----------------------------
+# Application Introduction
+#
+# @author	Michael Filipek
+# @email	me@michaelfilipek.com
+#
+
+
+# Hosting
+provider:	home.pl
+url:		http://michaelfilipek.com
+
+
+# Database
+driver:		mysql
+database:	michaelfilipek
+login:		
+password:	
+
+
+# Libs
+smarty
+jquery
+bootstrap
+x-editable
+bootstrap-table
+
+
+
+
+# Tools
+bower
+app
+ 
+
+
+
+
